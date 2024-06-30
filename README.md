@@ -1,30 +1,29 @@
 # IBM Coursera Introduction to Data Science Specialization
 
-## Skills You'll Gain
-### Category: Data Science
+## Skills You'll GainD
 - Data Science
 - Big Data
 - Machine Learning
 - Deep Learning
 - Data Mining
 
-### Category: Python Programming
+### Python Programming
 - Python Programming
 
-### Category: Cloud Databases
+### Cloud Databases
 - Cloud Databases
 - SQL
 
-### Category: Github
+### Github
 - Github
 
-### Category: Rstudio
+### Rstudio
 - Rstudio
 
-### Category: Jupyter Notebooks
+### Jupyter Notebooks
 - Jupyter Notebooks
 
-### Category: Relational Database Management System (RDBMS)
+### Relational Database Management System (RDBMS)
 - Relational Database Management System (RDBMS)
 
 ---
